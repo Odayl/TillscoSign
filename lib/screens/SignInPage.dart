@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-
-import '../main.dart';
+import 'package:signature_document/screens/signatureApp.dart';
 import 'loginScreen.dart';
 
 class SignInPage extends StatefulWidget {
